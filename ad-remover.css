@@ -1,4 +1,3 @@
-.sales,
-.banners-wrap {
-	display: none;
+.top-banner, .sales, .banners-wrap {
+	display: none !important;
 }
