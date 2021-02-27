@@ -1,3 +1,15 @@
 .top-banner, .sales, .banners-wrap {
 	display: none !important;
 }
+
+.header {
+	top: unset !important;
+}
+
+.main {
+	padding-top: 9em !important;
+}
+
+.page-results {
+	padding-bottom: 1em !important
+}
