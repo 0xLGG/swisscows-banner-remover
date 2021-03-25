@@ -1,6 +1,6 @@
 {
 	"name": "Swisscows Banner Remover",
-	"version": "1.3.0",
+	"version": "1.3.1",
 	"manifest_version": 3,
 	"description": "Do you like using swisscows.com but you are afraid, annoyed, distracted by the smiley guy in the banner? then fear no more my friend! This extension will help to remove this unorthodox use of display render once and for all from your screen.",
 	"action": {
