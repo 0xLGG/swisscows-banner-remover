@@ -1,4 +1,4 @@
-.top-banner, .sales, .banners-wrap {
+.top-banner, .sales, .banners-wrap, .web-results-sale {
 	display: none !important;
 }
 
@@ -7,9 +7,17 @@
 }
 
 .main {
-	padding-top: 9em !important;
+	padding-top: 8em !important;
 }
 
 .page-results {
-	padding-bottom: 1em !important
+	padding: 0.5em 0 !important
+}
+
+.page-results .item {
+	margin-bottom: 1.6em !important;
+}
+
+.web-pagination {
+	margin-top: 2em !important;
 }
