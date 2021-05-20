@@ -1,23 +1,9 @@
-.top-banner, .sale, .sales, .banners-wrap, .web-results-sale, .ads {
-	display: none !important;
-}
-
-.header {
-	top: unset !important;
-}
-
-.main {
-	padding-top: 8em !important;
-}
-
-.page-results {
-	padding: 0.5em 0 !important
-}
-
-.page-results .item {
-	margin-bottom: 1.6em !important;
-}
-
-.web-pagination {
-	margin-top: 2em !important;
+/* smiley guy and ads */
+.top-banner,
+.sale,
+.sales,
+.banners-wrap,
+.web-results-sale,
+.ads {
+  display: none !important;
 }

@@ -1,0 +1,27 @@
+/* note: this will also remove the option to change region and removes the display of filter */
+.toolbar {
+  display: none !important;
+}
+
+.main {
+  padding-top: 10em !important;
+}
+
+@media only screen and (max-width: 767px) {
+  .main {
+    padding-top: 7.5em !important;
+  }
+}
+
+.page-results .item {
+  margin-bottom: 0.75em !important;
+}
+
+.web-pagination {
+  margin-top: 0.5em !important;
+}
+
+.related-searches-list > p {
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
+}
