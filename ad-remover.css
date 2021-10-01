@@ -4,6 +4,7 @@
 .sales,
 .banners-wrap,
 .web-results-sale,
-.ads {
+.ads,
+.advrts {
   display: none !important;
 }
