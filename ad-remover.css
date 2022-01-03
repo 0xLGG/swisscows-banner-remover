@@ -8,7 +8,7 @@
 .advrts {
   display: none !important;
 }
-.related-searches-list > ul, li {
+.related-searches-list > ul > li {
   display: inline !important;
   padding-right: 20px !important;
 }
